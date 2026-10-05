@@ -48,7 +48,7 @@ Then you will see:
 Enter how much further: 10
 ```
 
-After that, a file named `useless.py` will be generated.
+After that, a file named `useless.py` will appear.
 
 Run it:
 
